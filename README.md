@@ -1,8 +1,8 @@
 # swipeMobile--一个基于zepto的移动端左右滑动轮换插件
 
 平时做移动端项目，经常会遇到左右切换轮换的功能，网上插件很多, 像比较好的[Swiper](http://www.swiper.com.cn/) 等等, 但是这个插件功能太多, 我只需要简单的轮换, 就显得插件有点庞大, 于是自己写了个很简单实现基础功能的.
-源码跟demo已发上github, 地址是: https://github.com/Moonphy/swipeMobile 因为写的不好, 有能指点如何修改的先谢过哈, 要是觉得还实用的就在github上点个star咯!!
-
+源码跟demo已发上github, 地址是: https://github.com/Moonphy/swipeMobile 因为写的不好, 有能指点如何修改的先谢过哈, 要是觉得还实用的就在github上点个star咯哈哈!!
+## 示例图
 ![示例图](http://7xoyoo.com1.z0.glb.clouddn.com/image/jpg/1.gif)
 
 ## 调用
